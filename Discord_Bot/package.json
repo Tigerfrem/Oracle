@@ -1,0 +1,14 @@
+{
+  "name": "discord_bot",
+  "version": "1.0.0",
+  "description": "This is a bot for the server Cyber_Tech",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rachid",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.8.1"
+  }
+}

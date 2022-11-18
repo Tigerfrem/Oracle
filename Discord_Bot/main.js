@@ -1,10 +1,10 @@
 const Discord = require('discord.js');
 
 //TOKEN FOR THE BOT
-DISCORD_BOT_TOKEN = 'OTkzNjE2MTQzODI4OTE4Mzgy.GchQKU.-aygcHdSaLksvjSLQoDAq7dO-JDTbFAu51e1AQ'
+//DISCORD_BOT_TOKEN = 'Put your token here after requesting it'
 
 //TOKEN FOR GIFS
-TENOR_KEY = ' AIzaSyCQdJBlKGp2zOhx_7dbdnDAd07p4ALMnoE'
+//TENOR_KEY = 'Token used for Gifs' 
 
 const client = new Discord.Client({ intents: ['DIRECT_MESSAGES', 'GUILD_MESSAGES', 'GUILDS', 'GUILD_VOICE_STATES'],
 partials: ['MESSAGE', 'CHANNEL'] });
